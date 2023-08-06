@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @buimai586
-- 👀 I’m interested in Data Analytics and Machine Learning
-- 🌱 I’m currently learning Supply Chain and Fintech Domain
-- 💞️ I’m looking to collaborate on Data projects in Financial Services / Manufacturing industry
-- 📫 How to reach me thanhmaibui586@gmail.com
+- 👀 I love coding and I’m interested in Data Analytics and Machine Learning
+- 🌱 I’m nurturing my expertise in Supply Chain and Fintech Domain
+- 💞️ With 6 years coding like a monkey, I’m looking to collaborate on Data projects in Financial Services / Manufacturing industry
+- 📫 How to reach me? thanhmaibui586@gmail.com
 - My Linkedin: https://www.linkedin.com/in/mai-bùi-021784146/
 
 <!---
